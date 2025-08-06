@@ -31,10 +31,9 @@ GitHubリポジトリのトップに index.html を作成します。
 数秒後、「Your site is live at...」というURLが表示されます
 
 例）
-https://takase-hiroyuki.github.io/my_first_hompage/
+https://takase-hiroyuki.github.io/my_first_homepage/
 
 そのURLをクリックすれば、誰でも閲覧できます。
-
 
 
 
